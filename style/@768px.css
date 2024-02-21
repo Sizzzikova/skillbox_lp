@@ -1,0 +1,71 @@
+@media (max-width: 768px) {
+  .hero {
+    background-image: url("/16_grid/img/hero@768.png");
+  }
+  .hero__content {
+    padding-bottom: 136px;
+  }
+  .hero__title {
+    font-size: 50px;
+    margin-bottom: 16px;
+  }
+  .hero__descr {
+    font-size: 18px;
+    line-height: 150%; /* 27px */
+    margin-bottom: 60px;
+  }
+  .header__logo {
+    margin-right: auto;
+  }
+  .header__container {
+    flex-wrap: wrap;
+  }
+  .adv {
+    margin-bottom: 74px;
+  }
+  .adv__item {
+    gap: 10px;
+  }
+  .team {
+    padding-top: 75px;
+    padding-bottom: 40px;
+    margin-bottom: 76px;
+  }
+  .team__name {
+    margin-bottom: 5px;
+  }
+  .team__img {
+    margin-bottom: 29px;
+  }
+  .courses {
+    margin-bottom: 45px;
+  }
+  .courses__h2 {
+    margin-bottom: 20px;
+  }
+  .cards__content {
+    min-height: 376px;
+  }
+  .cards__title {
+    margin-bottom: 10px;
+  }
+  .cards__btn {
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+}
+@media (max-width: 767px) {
+  .header__logo {
+    margin: auto;
+    margin-bottom: 28px;
+}
+  .header__nav {
+    margin: auto;
+  }
+  .cards__content {
+    min-height: 473px;
+  }
+  .adv__h2 {
+    width: 330px;
+  }
+}

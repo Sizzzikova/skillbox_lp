@@ -1,0 +1,82 @@
+@media (max-width: 320px) {
+.header__container {
+    padding-top: 25px;
+}
+.header__logo {
+  margin-bottom: 20px;
+}
+.hero {
+  margin-bottom: 50px;
+}
+.hero__title {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+.hero__descr {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 130%; /* 20.8px */
+  margin-bottom: 45px;
+}
+.hero__content {
+  padding: 50px 15px;
+}
+.hero__btn {
+  padding: 20px 53px;
+  font-size: 16px;
+}
+.adv {
+  margin-bottom: 48px;
+}
+.adv__img {
+  display: none;
+}
+.adv__h2 {
+  font-size: 20px;
+  line-height: 130%; /* 26px */
+  margin-bottom: 0;
+  width: 290px;
+}
+.adv__item {
+  flex-direction: row;
+  gap: 30px;
+}
+.adv__content-bottom {
+  gap: 30px;
+}
+.team {
+  padding-top: 50px;
+  padding-bottom: 25px;
+  margin-bottom: 45px;
+}
+.team__h2 {
+  font-size: 20px;
+  line-height: 100%; /* 20px */
+  margin-bottom: 25px;
+}
+.team__item {
+  margin-bottom: 23px;
+}
+.courses__h2 {
+  font-size: 20px;
+  margin-bottom: 28px;
+}
+.cards__btn {
+  padding: 20px 55px;
+}
+.cards__content {
+  padding: 28px 34px;
+}
+.cards__item {
+  margin-bottom: 25px;
+}
+.cards__title {
+  width: 195px;
+}
+.courses {
+  margin-bottom: 25px;
+}
+.courses__p {
+  width: 230px;
+}
+}
